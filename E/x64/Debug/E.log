@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(16,12): warning C4101: chislX: неиспользованная локальная переменная
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(16,20): warning C4101: chislY: неиспользованная локальная переменная
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(108,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(125,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(126,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(139,145): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(139,142): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(139,139): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(148,137): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(148,134): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programs\SAOD DZ\lab_6\E\main.cpp(148,131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  E.vcxproj -> D:\Programs\SAOD DZ\lab_6\E\x64\Debug\E.exe
